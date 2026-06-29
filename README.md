@@ -66,9 +66,9 @@ This project presents a comprehensive case study on Moderna Inc. and its revolut
 
 ## 👨‍🔬 Internship
 
-**Organization:** CodeAlpha
+**Organization: CodeAlpha
 
-**Domain:** Biotechnology
+**Domain:Biotechnology
 
 ---
 
@@ -81,7 +81,7 @@ Biotechnology Student
 Research Enthusiast
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/Raj Maddheshiya
 
 ---
 
