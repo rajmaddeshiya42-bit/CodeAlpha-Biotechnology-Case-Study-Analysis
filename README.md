@@ -3,8 +3,6 @@ A professional case study presentation on Moderna's mRNA Technology created duri
 
 # 🧬 Case Study Analysis of Moderna's mRNA Technology
 
-![Cover](Cover.png)
-
 ## 📖 Overview
 
 This project presents a comprehensive case study on Moderna Inc. and its revolutionary mRNA technology. The presentation explores the company's biotechnology innovation, mechanism of action, real-world applications, future prospects, and overall impact on global healthcare.
@@ -43,12 +41,6 @@ This project presents a comprehensive case study on Moderna Inc. and its revolut
 - Precision Medicine
 - Cancer Immunotherapy
 - Personalized Healthcare
-
----
-
-## 📸 Project Preview
-
-![Preview](Slide_Preview.png)
 
 ---
 
